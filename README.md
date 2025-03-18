@@ -4,6 +4,7 @@
 
 Welcome to [SecondExample](https://second-example.com), the web's most comprehensive resource for examples, templates, and models across professional, academic, and creative fields. Our platform provides thousands of high-quality examples - from writing templates to literary devices and business documents.
 
+
 ## What We Offer
 
 ### 📄 Professional Resources
